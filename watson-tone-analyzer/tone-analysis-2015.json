@@ -1,0 +1,904 @@
+{
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Saturday, December 26, 2015 at 3:04pm PST",
+      "tones": [
+        {
+          "score": 0.669652,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Lorraine Sawicki added 2 new photos — with Blue Banshee.",
+      "tones": [
+        {
+          "score": 0.61948,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Currently in the middle of solo 2-day whirlwind trip to New Jersey/Brooklyn, visiting my grandma and fabulous friend Liz.",
+      "tones": [
+        {
+          "score": 0.789234,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Also experienced the pleasure of reading a book 3 hours straight, which I haven't done in years.",
+      "tones": [
+        {
+          "score": 0.678775,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Thursday, December 24, 2015 at 2:15pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Happy holidays from shirtless Zane, sweet Leila, Mike & Lorraine!",
+      "tones": [
+        {
+          "score": 0.949518,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Monday, December 21, 2015 at 2:56pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "2,573 members",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "2,573 members",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "Saturday, December 19, 2015 at 8:28am PST",
+      "tones": [
+        {
+          "score": 0.776729,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "Lorraine Sawicki added 3 new photos — with Cindy Reeh and Lexie Fleming.",
+      "tones": [
+        {
+          "score": 0.605496,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "Another year of gingerbread house fun! this time with younger siblings and a lot more scream-giggling from our six-year-old girls",
+      "tones": [
+        {
+          "score": 0.558079,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "Tuesday, December 15, 2015 at 12:48pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 14,
+      "text": "What's a girl to do while waiting for a tow truck and feeling chilled to the bone?",
+      "tones": [
+        {
+          "score": 0.621739,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "eat French fries.",
+      "tones": []
+    },
+    {
+      "sentence_id": 16,
+      "text": "Monday, December 14, 2015 at 9:38am PST",
+      "tones": [
+        {
+          "score": 0.504931,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "Saturday, December 12, 2015 at 6:48pm PST",
+      "tones": [
+        {
+          "score": 0.669652,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "Hot chocolate hi-society pose before the nutcracker.",
+      "tones": []
+    },
+    {
+      "sentence_id": 19,
+      "text": "Tuesday, December 8, 2015 at 12:05pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 20,
+      "text": "Lorraine Sawicki is with Mike Sawicki and 2 others.",
+      "tones": []
+    },
+    {
+      "sentence_id": 21,
+      "text": "holiday spirit at Sonos.",
+      "tones": [
+        {
+          "score": 0.707845,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "text": "Sunday, December 6, 2015 at 12:36pm PST",
+      "tones": [
+        {
+          "score": 0.623278,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "Skating like a pro with her daisy scout troop!",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "Saturday, November 28, 2015 at 9:43pm PST",
+      "tones": [
+        {
+          "score": 0.584002,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "We did the go outside instead of shop thing yesterday at rattlesnake lake.",
+      "tones": []
+    },
+    {
+      "sentence_id": 26,
+      "text": "I also had a cheese plate for dinner.",
+      "tones": [
+        {
+          "score": 0.563416,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "text": "Was a good day.",
+      "tones": [
+        {
+          "score": 0.914543,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "text": "Wednesday, November 25, 2015 at 5:00pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 29,
+      "text": "The evolution of thankfulness.",
+      "tones": []
+    },
+    {
+      "sentence_id": 30,
+      "text": "Zane is thankful for candy.",
+      "tones": [
+        {
+          "score": 0.89216,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "text": "Leila for so much more.",
+      "tones": []
+    },
+    {
+      "sentence_id": 32,
+      "text": "Wednesday, November 25, 2015 at 11:48am PST",
+      "tones": [
+        {
+          "score": 0.549927,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "text": "Taking a break from giving out pie samples.",
+      "tones": []
+    },
+    {
+      "sentence_id": 34,
+      "text": "I'm here for one day only, if you come out to Greenlake village I'm here 'till 3! I've tasted them all and it's a tie between chocolate-pecan and pear cream ;)",
+      "tones": [
+        {
+          "score": 0.721859,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.711887,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "text": "Sunday, November 15, 2015 at 6:24pm PST",
+      "tones": [
+        {
+          "score": 0.569554,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "text": "Potato smasher for hire.",
+      "tones": []
+    },
+    {
+      "sentence_id": 37,
+      "text": "Will work 3 minutes in exchange for pizza, toy trucks or indoor game of tag.",
+      "tones": [
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "text": "Friday, November 13, 2015 at 10:47am PST",
+      "tones": [
+        {
+          "score": 0.573171,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "text": "I adore this show.",
+      "tones": []
+    },
+    {
+      "sentence_id": 40,
+      "text": "Also, the term \"trifle-y\" is not a term I'd ever use to describe a texture.",
+      "tones": []
+    },
+    {
+      "sentence_id": 41,
+      "text": "Wednesday, November 11, 2015 at 8:16pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 42,
+      "text": "My grandpa and dad.",
+      "tones": [
+        {
+          "score": 0.56908,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "text": "I feel like it shows their different experiences in the army.",
+      "tones": [
+        {
+          "score": 0.527222,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "My grandpa immigrated to Pennsylvania from Poland, then fought for the U.S. WW1 in France.",
+      "tones": []
+    },
+    {
+      "sentence_id": 45,
+      "text": "I was told one of his duties was picking up soldiers that died in the fields.",
+      "tones": [
+        {
+          "score": 0.577584,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "text": "My dad went through basic training in Georgia, went to San Francisco, Hawaii, and finally served two years in Korea without seeing combat.",
+      "tones": [
+        {
+          "score": 0.66741,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "Grandpa got USA citizenship from his service, my Dad got to see the world.",
+      "tones": [
+        {
+          "score": 0.513807,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "text": "Interesting how life is like a roll of dice sometimes.",
+      "tones": [
+        {
+          "score": 0.63307,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.928936,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "text": "Hearing taps played at my Dad's funeral was a powerful experience.",
+      "tones": [
+        {
+          "score": 0.680967,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "text": "Day is done, gone the sun.",
+      "tones": [
+        {
+          "score": 0.679885,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "text": "Tuesday, November 10, 2015 at 10:25am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 52,
+      "text": "When it's time for your digital detox and need to leave behind the cell phone, perhaps Donald will help you deal with the emptiness.",
+      "tones": [
+        {
+          "score": 0.523822,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "text": "Saturday, November 7, 2015 at 8:20pm PST",
+      "tones": [
+        {
+          "score": 0.584002,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "text": "Lorraine Sawicki is at Bitterroot BBQ.",
+      "tones": []
+    },
+    {
+      "sentence_id": 55,
+      "text": "Eating my sister's head on her birthday.",
+      "tones": [
+        {
+          "score": 0.679352,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "text": "Love you Elaine!",
+      "tones": [
+        {
+          "score": 0.882354,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "You embody vibrant, passionate living like nobody else I know.",
+      "tones": [
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 58,
+      "text": "Wednesday, November 4, 2015 at 10:20am PST",
+      "tones": [
+        {
+          "score": 0.549927,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "text": "Hey wine drinkers - what would make you buy wine?",
+      "tones": [
+        {
+          "score": 0.77924,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 60,
+      "text": "I'm working on ideas for the wine newsletter at work, and my small team basically said that a \"sale\" or \"stressful day\" would make them buy - not a picture of a bottle or description of a cheese board.",
+      "tones": [
+        {
+          "score": 0.623939,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.641368,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 61,
+      "text": "Tuesday, November 3, 2015 at 11:11am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 62,
+      "text": "Sunday, November 1, 2015 at 1:05pm PST",
+      "tones": [
+        {
+          "score": 0.569554,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 63,
+      "text": "How an introvert recovers from a beautifully social yesterday.",
+      "tones": []
+    },
+    {
+      "sentence_id": 64,
+      "text": "Coffee, staring out the window, and writing.",
+      "tones": [
+        {
+          "score": 0.742251,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 65,
+      "text": "Saturday, October 31, 2015 at 8:57pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 66,
+      "text": "Lorraine Sawicki added a new photo.",
+      "tones": [
+        {
+          "score": 0.619561,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 67,
+      "text": "About to get freaked out at the clownoscopy garage show just up the street.",
+      "tones": [
+        {
+          "score": 0.532843,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.845297,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 68,
+      "text": "It involved clowns, horns, balloons, and a woman jumping out of a green tube at the end of a short show and handing us \"colon candy\" Elaine Juzwick Monk",
+      "tones": []
+    },
+    {
+      "sentence_id": 69,
+      "text": "Saturday, October 31, 2015 at 8:49pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 70,
+      "text": "Queen parrot of the jungle and the fearsome shark!",
+      "tones": []
+    },
+    {
+      "sentence_id": 71,
+      "text": "Tuesday, October 27, 2015 at 3:35pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 72,
+      "text": "Friday, October 23, 2015 at 9:22am PDT",
+      "tones": [
+        {
+          "score": 0.536567,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 73,
+      "text": "Lorraine Sawicki added a new photo.",
+      "tones": [
+        {
+          "score": 0.619561,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 74,
+      "text": "Phase 1 of this designer's big idea for Halloween.",
+      "tones": [
+        {
+          "score": 0.70278,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 75,
+      "text": "She definitely has a vision of what she wants!",
+      "tones": [
+        {
+          "score": 0.874372,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 76,
+      "text": "Thursday, October 22, 2015 at 11:21am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 77,
+      "text": "The entire family has vetoed Caspar Babypants in favor of Parry Gripp.",
+      "tones": [
+        {
+          "score": 0.543112,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 78,
+      "text": "Get your lighters before watching.",
+      "tones": []
+    },
+    {
+      "sentence_id": 79,
+      "text": "(who am I kidding, who smokes anymore?)",
+      "tones": []
+    },
+    {
+      "sentence_id": 80,
+      "text": "Thursday, October 22, 2015 at 10:22am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 81,
+      "text": "Wednesday, October 21, 2015 at 10:37am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 82,
+      "text": "Lorraine Sawicki added a new photo.",
+      "tones": [
+        {
+          "score": 0.619561,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 83,
+      "text": "Flower girls! with Diana McFarlane",
+      "tones": [
+        {
+          "score": 0.763119,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 84,
+      "text": "Wednesday, October 21, 2015 at 10:37am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 85,
+      "text": "Lorraine Sawicki added a new photo.",
+      "tones": [
+        {
+          "score": 0.619561,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 86,
+      "text": "Dahlias in the fall.",
+      "tones": []
+    },
+    {
+      "sentence_id": 87,
+      "text": "Alissa A Ozyilmaz",
+      "tones": []
+    },
+    {
+      "sentence_id": 88,
+      "text": "Wednesday, October 21, 2015 at 10:37am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 89,
+      "text": "Lorraine Sawicki added a new photo — with Mike Sawicki and 2 others in Mazama, Washington.",
+      "tones": [
+        {
+          "score": 0.682163,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 90,
+      "text": "mid-dance party!",
+      "tones": [
+        {
+          "score": 0.802118,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 91,
+      "text": "Wednesday, October 21, 2015 at 10:37am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 92,
+      "text": "Lorraine Sawicki added a new photo — with Goran Adrian Lynch and Jessica Hamilton.",
+      "tones": [
+        {
+          "score": 0.573506,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 93,
+      "text": "These two are fabulously in love.",
+      "tones": [
+        {
+          "score": 0.9467,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 94,
+      "text": "So sweet!",
+      "tones": [
+        {
+          "score": 0.880435,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 95,
+      "text": "Sunday, October 18, 2015 at 11:43am PDT",
+      "tones": [
+        {
+          "score": 0.630761,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 96,
+      "text": "Thursday, October 1, 2015 at 2:50pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 97,
+      "text": "Lorraine Sawicki added a new photo.",
+      "tones": [
+        {
+          "score": 0.619561,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 98,
+      "text": "What a sweet age!",
+      "tones": [
+        {
+          "score": 0.899667,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 99,
+      "text": "This guy loves flowers and got excited about giving them to his teachers",
+      "tones": [
+        {
+          "score": 0.863342,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 100,
+      "text": "Thursday, October 1, 2015 at 1:29pm PDT",
+      "tones": []
+    }
+  ]
+}

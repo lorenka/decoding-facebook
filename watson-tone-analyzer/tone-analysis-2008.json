@@ -1,0 +1,879 @@
+{
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Monday, December 29, 2008 at 3:21pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Shannon Cubby Kim",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "So I heard about the news today!",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Congrats!",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": ":-)",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Saturday, December 27, 2008 at 9:49pm PST",
+      "tones": [
+        {
+          "score": 0.669652,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Randall Scott H",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "Merry Christmas!",
+      "tones": [
+        {
+          "score": 0.822469,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Saturday, December 27, 2008 at 10:04am PST",
+      "tones": [
+        {
+          "score": 0.776729,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Elaine Juzwick",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "So good to see you & Mike over the holidays!",
+      "tones": [
+        {
+          "score": 0.852523,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "Yay trifle!",
+      "tones": [
+        {
+          "score": 0.963105,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": ":) Very ecstatic about the news, too :) Congrats!!",
+      "tones": [
+        {
+          "score": 0.956191,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "Saturday, December 27, 2008 at 9:54am PST",
+      "tones": [
+        {
+          "score": 0.776729,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "Darren Monk",
+      "tones": []
+    },
+    {
+      "sentence_id": 15,
+      "text": "Was lovely to meet you too.",
+      "tones": [
+        {
+          "score": 0.938457,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "I just ate some leftover trifle, yum yum it is good.",
+      "tones": [
+        {
+          "score": 0.931738,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.957828,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "Bit sloppy today.",
+      "tones": []
+    },
+    {
+      "sentence_id": 18,
+      "text": "Tell Mike trifle is also good with ice cream and crushed biscuits.",
+      "tones": [
+        {
+          "score": 0.508458,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "Hope your flight was okay and you're not too tired.",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "Elaine is speaking to you right now actually!",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.898327,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "Honk!",
+      "tones": []
+    },
+    {
+      "sentence_id": 22,
+      "text": "Friday, December 26, 2008 at 10:07am PST",
+      "tones": [
+        {
+          "score": 0.659187,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "is still full from her first trifle.",
+      "tones": []
+    },
+    {
+      "sentence_id": 24,
+      "text": "At least that means no airport food necessary while waiting!",
+      "tones": [
+        {
+          "score": 0.508715,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "Tuesday, December 23, 2008 at 3:22pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 26,
+      "text": "Tuesday, December 23, 2008 at 3:17pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 27,
+      "text": "Monday, December 22, 2008 at 9:39pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 28,
+      "text": "loves the snow.",
+      "tones": [
+        {
+          "score": 0.928398,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "text": "crunch crunch slide snowball fight!",
+      "tones": []
+    },
+    {
+      "sentence_id": 30,
+      "text": "Sunday, December 21, 2008 at 5:02pm PST",
+      "tones": [
+        {
+          "score": 0.642443,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "text": "Beth Keat",
+      "tones": []
+    },
+    {
+      "sentence_id": 32,
+      "text": "Thanks for the awesome gifts!!",
+      "tones": [
+        {
+          "score": 0.957793,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "text": "You guys are so thoughtful.",
+      "tones": []
+    },
+    {
+      "sentence_id": 34,
+      "text": "The gummy bacon is HILARIOUS!",
+      "tones": [
+        {
+          "score": 0.513495,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "text": "We will deliver your gifts in person in Jan (too heavy for mailing - you'll see).",
+      "tones": []
+    },
+    {
+      "sentence_id": 36,
+      "text": "Merry Christmas!",
+      "tones": [
+        {
+          "score": 0.822469,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "text": "Saturday, December 13, 2008 at 3:20pm PST",
+      "tones": [
+        {
+          "score": 0.669652,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "text": "Olivia Given Castello",
+      "tones": []
+    },
+    {
+      "sentence_id": 39,
+      "text": "hi lorraine!",
+      "tones": []
+    },
+    {
+      "sentence_id": 40,
+      "text": "i see you are married!",
+      "tones": []
+    },
+    {
+      "sentence_id": 41,
+      "text": "congratulations... mike, that was your boyfriend when i knew you in brooklyn, right?",
+      "tones": [
+        {
+          "score": 0.625185,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "text": "do you guys have kids?",
+      "tones": []
+    },
+    {
+      "sentence_id": 43,
+      "text": "do you keep in touch with anyone else from brooklyn?",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "i don't really though i update charles on stuff about my family every so often... if you are ever in philadelphia, please let me know so we can catch up in person!!",
+      "tones": []
+    },
+    {
+      "sentence_id": 45,
+      "text": "Saturday, December 13, 2008 at 2:38pm PST",
+      "tones": [
+        {
+          "score": 0.651552,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "text": "Saturday, December 13, 2008 at 2:38pm PST",
+      "tones": [
+        {
+          "score": 0.651552,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "Saturday, December 13, 2008 at 2:38pm PST",
+      "tones": [
+        {
+          "score": 0.651552,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "text": "Sunday, December 7, 2008 at 7:44am PST",
+      "tones": [
+        {
+          "score": 0.759768,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "text": "Friday, December 5, 2008 at 6:09am PST",
+      "tones": [
+        {
+          "score": 0.659187,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "text": "Jennifer Parker",
+      "tones": []
+    },
+    {
+      "sentence_id": 51,
+      "text": "Hi! BTW, I will be in town during the holidays in case you have time to squeeze in a visit..",
+      "tones": [
+        {
+          "score": 0.620789,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "text": "Thursday, December 4, 2008 at 5:36pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 53,
+      "text": "is going to see some of Edward Hopper's paintings with Mike.",
+      "tones": [
+        {
+          "score": 0.514955,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "text": "Thursday, December 4, 2008 at 5:05pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 55,
+      "text": "Jack Margo",
+      "tones": []
+    },
+    {
+      "sentence_id": 56,
+      "text": "Thanks to the power of the webbernets, tho, you can get a weekly dose of the Jacko on the videos...I'm also available for bar mitzvahs and funerals.",
+      "tones": [
+        {
+          "score": 0.568076,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "Thursday, December 4, 2008 at 11:34am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 58,
+      "text": "Thursday, December 4, 2008 at 10:24am PST",
+      "tones": [
+        {
+          "score": 0.50689,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "text": "Wednesday, December 3, 2008 at 11:37pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 60,
+      "text": "is going to finish reading james and the giant peach.",
+      "tones": []
+    },
+    {
+      "sentence_id": 61,
+      "text": "Tuesday, December 2, 2008 at 4:46pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 62,
+      "text": "Doreen Conners Pavone",
+      "tones": []
+    },
+    {
+      "sentence_id": 63,
+      "text": "Love your profile pic.",
+      "tones": [
+        {
+          "score": 0.777384,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 64,
+      "text": "Seattle becomes you...hope you are well and Hello to Mike!",
+      "tones": [
+        {
+          "score": 0.615835,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 65,
+      "text": "Tuesday, December 2, 2008 at 10:50am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 66,
+      "text": "Keith Ö Lee",
+      "tones": []
+    },
+    {
+      "sentence_id": 67,
+      "text": "Hi Lorraine.",
+      "tones": []
+    },
+    {
+      "sentence_id": 68,
+      "text": "Actually TJ and I are working on a cool project together.",
+      "tones": [
+        {
+          "score": 0.847366,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.825035,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 69,
+      "text": "It involves a lot of JS and is visually very nice.",
+      "tones": [
+        {
+          "score": 0.790385,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 70,
+      "text": "Its for a marketing company.",
+      "tones": [
+        {
+          "score": 0.571981,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 71,
+      "text": "We are also working on a social networking site ( that I can't mention the name of yet) in the education arena.",
+      "tones": []
+    },
+    {
+      "sentence_id": 72,
+      "text": "Imagine that, one social networking site to another.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 73,
+      "text": "Other than that my last non-tech project was cooking a duck for Thanksgiving.",
+      "tones": [
+        {
+          "score": 0.603913,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 74,
+      "text": "It was delicious.",
+      "tones": [
+        {
+          "score": 0.880435,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 75,
+      "text": "Tuesday, December 2, 2008 at 9:15am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 76,
+      "text": "Elaine Juzwick",
+      "tones": []
+    },
+    {
+      "sentence_id": 77,
+      "text": "the flowers are supposedly plum blossoms!",
+      "tones": [
+        {
+          "score": 0.548828,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 78,
+      "text": "glad you like, 'cause you have smashing taste :) yours were quite lovely, too.",
+      "tones": [
+        {
+          "score": 0.951242,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 79,
+      "text": "i had so much fun making them with you.",
+      "tones": [
+        {
+          "score": 0.907073,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 80,
+      "text": "have a question about music for ya later... hugs!!",
+      "tones": [
+        {
+          "score": 0.79168,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 81,
+      "text": "Monday, December 1, 2008 at 7:30pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 82,
+      "text": "Jack Margo",
+      "tones": []
+    },
+    {
+      "sentence_id": 83,
+      "text": "Dearest Mrs. Fawickis: Thank you so much for the express package.",
+      "tones": []
+    },
+    {
+      "sentence_id": 84,
+      "text": "The box is lovely, and I will fill it with used tissues and such.",
+      "tones": [
+        {
+          "score": 0.669767,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 85,
+      "text": "Also, the packages inside that had rat bites in them were wonderful and worked perfectly to help hold my car bumper up.",
+      "tones": [
+        {
+          "score": 0.69629,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 86,
+      "text": "I do not speak the english well, but I think you say, \"Many thanks for giftings that have you sent to my hovel.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 87,
+      "text": "Jackov",
+      "tones": []
+    },
+    {
+      "sentence_id": 88,
+      "text": "Saturday, November 29, 2008 at 2:04pm PST",
+      "tones": [
+        {
+          "score": 0.584002,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 89,
+      "text": "loves watching a man do laundry",
+      "tones": [
+        {
+          "score": 0.827067,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 90,
+      "text": "Wednesday, November 26, 2008 at 2:49pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 91,
+      "text": "is attending Thanksgiving.",
+      "tones": []
+    },
+    {
+      "sentence_id": 92,
+      "text": "Tuesday, November 25, 2008 at 7:04pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 93,
+      "text": "Keith Ö Lee",
+      "tones": []
+    },
+    {
+      "sentence_id": 94,
+      "text": "Hi Lorraine.",
+      "tones": []
+    },
+    {
+      "sentence_id": 95,
+      "text": "What's up with you?",
+      "tones": []
+    },
+    {
+      "sentence_id": 96,
+      "text": "Tuesday, November 25, 2008 at 12:20pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 97,
+      "text": "Sunday, November 23, 2008 at 10:41am PST",
+      "tones": [
+        {
+          "score": 0.704543,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 98,
+      "text": "Elaine Juzwick",
+      "tones": []
+    },
+    {
+      "sentence_id": 99,
+      "text": "Hello gorgeous sister!",
+      "tones": [
+        {
+          "score": 0.860789,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 100,
+      "text": "Are you hiking?",
+      "tones": []
+    }
+  ]
+}

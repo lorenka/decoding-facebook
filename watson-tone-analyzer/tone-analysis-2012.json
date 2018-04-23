@@ -1,0 +1,920 @@
+{
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Monday, December 24, 2012 at 10:41am PST",
+      "tones": [
+        {
+          "score": 0.536563,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "An hour-long riveting read.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "I appreciate all the effort that went into making this.",
+      "tones": [
+        {
+          "score": 0.583698,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Saturday, December 22, 2012 at 2:33pm PST",
+      "tones": [
+        {
+          "score": 0.651552,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Friday, December 21, 2012 at 8:36pm PST",
+      "tones": [
+        {
+          "score": 0.506323,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Wednesday, December 19, 2012 at 1:45pm PST",
+      "tones": [
+        {
+          "score": 0.516907,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Teaching mysteries and secrets is tough.",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "I told Leila to keep a purchase a secret from Dad.",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "This morning she ran around asking if Dad could open his secret present.",
+      "tones": [
+        {
+          "score": 0.73104,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.933436,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "I said \"Don't spill the beans Leila!\" and she said \"It's not beans, it's a toaster oven!\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "Monday, December 17, 2012 at 11:05pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 11,
+      "text": "In this day and age when we have to fly across the country to be with family for the holidays - we're just not shipping the larger gifts.",
+      "tones": [
+        {
+          "score": 0.716581,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "So here are Harvey and Leila just happy as can be at gift opening #1.",
+      "tones": [
+        {
+          "score": 0.921354,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "I bet you wish you had a car and a thermos.",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "with Elaine Juzwick Monk",
+      "tones": []
+    },
+    {
+      "sentence_id": 15,
+      "text": "Monday, December 17, 2012 at 10:47pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 16,
+      "text": "Lorraine's cover photo",
+      "tones": []
+    },
+    {
+      "sentence_id": 17,
+      "text": "Wednesday, December 12, 2012 at 9:38pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 18,
+      "text": "Thursday, December 6, 2012 at 2:46pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 19,
+      "text": "Wednesday, November 28, 2012 at 8:14pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 20,
+      "text": "In honor of Leila's first dental appointment tomorrow morning.",
+      "tones": [
+        {
+          "score": 0.705708,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "Thursday, November 8, 2012 at 7:15pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 22,
+      "text": "Wednesday, November 7, 2012 at 7:31am PST",
+      "tones": [
+        {
+          "score": 0.525437,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "Halloween 2012",
+      "tones": []
+    },
+    {
+      "sentence_id": 24,
+      "text": "Wednesday, November 7, 2012 at 7:31am PST",
+      "tones": [
+        {
+          "score": 0.525437,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "Halloween 2012",
+      "tones": []
+    },
+    {
+      "sentence_id": 26,
+      "text": "Wednesday, November 7, 2012 at 7:31am PST",
+      "tones": [
+        {
+          "score": 0.525437,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "text": "Halloween 2012",
+      "tones": []
+    },
+    {
+      "sentence_id": 28,
+      "text": "Wednesday, November 7, 2012 at 7:31am PST",
+      "tones": [
+        {
+          "score": 0.525437,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "text": "Lorraine Sawicki added a new photo.",
+      "tones": [
+        {
+          "score": 0.619561,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "text": "I never saw so many ladies make eyes at Mike as when he was a Ghostbuster.",
+      "tones": []
+    },
+    {
+      "sentence_id": 31,
+      "text": "Pretty hot, I'm a lucky lady!",
+      "tones": [
+        {
+          "score": 0.858835,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.994446,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "text": "Thursday, November 1, 2012 at 1:36pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 33,
+      "text": "Learning strategy already!",
+      "tones": [
+        {
+          "score": 0.955445,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "text": "Monday, October 22, 2012 at 11:00pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 35,
+      "text": "Elaine Juzwick",
+      "tones": []
+    },
+    {
+      "sentence_id": 36,
+      "text": "so you go to Florida and miss the hail storm!! ... did ya pack your winter coat for when you arrive back home?",
+      "tones": [
+        {
+          "score": 0.554165,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "text": ";)",
+      "tones": []
+    },
+    {
+      "sentence_id": 38,
+      "text": "Sunday, October 14, 2012 at 9:29pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 39,
+      "text": "Can we all just decide to not wear yoga pants everywhere, or is everyone literally on their way to yoga? (disclaimer: I love yoga.",
+      "tones": [
+        {
+          "score": 0.860058,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.722126,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "text": "I don't wear yoga pants.)",
+      "tones": []
+    },
+    {
+      "sentence_id": 41,
+      "text": "Wednesday, October 10, 2012 at 8:19am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 42,
+      "text": "Mike and Elaine Juzwick Monk watched these two cute kids over the weekend.",
+      "tones": [
+        {
+          "score": 0.803278,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "text": "I worked both days at the LadyCoders seminar and never had any doubt Leila and Zane were in good hands.",
+      "tones": [
+        {
+          "score": 0.651838,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.704683,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "Thanks guys!",
+      "tones": [
+        {
+          "score": 0.768788,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "text": "Monday, October 1, 2012 at 3:04pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 46,
+      "text": "Is there still any truth to that observation that there are more dogs than kids in Seattle?",
+      "tones": []
+    },
+    {
+      "sentence_id": 47,
+      "text": "I see babies everywhere!",
+      "tones": [
+        {
+          "score": 0.514199,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "text": "Wednesday, September 26, 2012 at 1:41pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 49,
+      "text": "Wednesday, September 26, 2012 at 9:41am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 50,
+      "text": "Tuesday, September 18, 2012 at 9:55am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 51,
+      "text": "Monday, September 17, 2012 at 12:09pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 52,
+      "text": "Elaine Juzwick",
+      "tones": []
+    },
+    {
+      "sentence_id": 53,
+      "text": "Thanks so much for yours & Mike's help on Saturday!!",
+      "tones": [
+        {
+          "score": 0.624825,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "text": "It made such a difference xx See ya this Sat.",
+      "tones": [
+        {
+          "score": 0.678366,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "text": ":)",
+      "tones": []
+    },
+    {
+      "sentence_id": 56,
+      "text": "Wednesday, September 12, 2012 at 2:38pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 57,
+      "text": "Life lessons from 3 year old: It's fun to be human.",
+      "tones": [
+        {
+          "score": 0.739075,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 58,
+      "text": "You have fun, get a baby in your tummy, and out it pops!",
+      "tones": [
+        {
+          "score": 0.754543,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "text": "Thursday, August 23, 2012 at 9:06pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 60,
+      "text": "Why does the State of FL still think I'm a registered voter there?! It's like the state wants me to do something naughty.",
+      "tones": [
+        {
+          "score": 0.63698,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.636458,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 61,
+      "text": "Monday, August 20, 2012 at 4:28pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 62,
+      "text": "\"Kids can drink soda because it's not alcohol\" -Leila.",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 63,
+      "text": "Hooray, we're doing something right!",
+      "tones": [
+        {
+          "score": 0.586082,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.968123,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 64,
+      "text": "Saturday, August 18, 2012 at 3:56pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 65,
+      "text": "Thank you Mom and Elaine for all your help and visits during the first few weeks of Zane's birth!",
+      "tones": [
+        {
+          "score": 0.782307,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.638987,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 66,
+      "text": "Friday, August 10, 2012 at 7:00am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 67,
+      "text": "10 years after graduating from college, the month of August can still elicit my childhood sense of dread about school starting.",
+      "tones": [
+        {
+          "score": 0.50765,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.523435,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 68,
+      "text": "Thursday, August 9, 2012 at 1:46pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 69,
+      "text": "Happy 3rd Birthday Leila!",
+      "tones": [
+        {
+          "score": 0.925437,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 70,
+      "text": "Monday, August 6, 2012 at 7:33pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 71,
+      "text": "Wednesday, July 25, 2012 at 9:51pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 72,
+      "text": "Tuesday, July 24, 2012 at 12:09pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 73,
+      "text": "Zane Marcus Sawicki, born this Monday 7/23 at 5am!",
+      "tones": []
+    },
+    {
+      "sentence_id": 74,
+      "text": "Wednesday, July 18, 2012 at 7:08pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 75,
+      "text": "What's the least expensive thing you can include in a swag bag?",
+      "tones": [
+        {
+          "score": 0.585661,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 76,
+      "text": "Paper fliers are expensive.",
+      "tones": []
+    },
+    {
+      "sentence_id": 77,
+      "text": "I'm guessing zucchini.",
+      "tones": [
+        {
+          "score": 0.530377,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.994446,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 78,
+      "text": "Although you might make the recipient hate you if they're growing some in their garden.",
+      "tones": [
+        {
+          "score": 0.569487,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.904882,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 79,
+      "text": "Monday, July 16, 2012 at 11:11pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 80,
+      "text": "I have a baby on the way in just over a week, but here's the other baby I've been working on for over a month with two awesome ladies.",
+      "tones": [
+        {
+          "score": 0.828608,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 81,
+      "text": "We'd love to have you check us out and help!",
+      "tones": [
+        {
+          "score": 0.650488,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 82,
+      "text": "Wednesday, July 11, 2012 at 5:53pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 83,
+      "text": "Because I haven't posted \"funny things Leila sings\" yet.",
+      "tones": [
+        {
+          "score": 0.625194,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 84,
+      "text": "Probably not a top 40 hit, but it could go indie.",
+      "tones": [
+        {
+          "score": 0.59986,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.957828,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 85,
+      "text": "--------------------- Potatoes and frogs, Barrettes in yogurt.",
+      "tones": []
+    },
+    {
+      "sentence_id": 86,
+      "text": "It's really fun to taste your yogurt with a barrette inside.",
+      "tones": [
+        {
+          "score": 0.804243,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 87,
+      "text": "(x4)",
+      "tones": []
+    },
+    {
+      "sentence_id": 88,
+      "text": "Sunday, July 8, 2012 at 11:05am PDT",
+      "tones": [
+        {
+          "score": 0.597754,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 89,
+      "text": "Karen Eng",
+      "tones": []
+    },
+    {
+      "sentence_id": 90,
+      "text": "Hi Lorraine!",
+      "tones": []
+    },
+    {
+      "sentence_id": 91,
+      "text": "Great to meet you yesterday!",
+      "tones": [
+        {
+          "score": 0.917396,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 92,
+      "text": ":)",
+      "tones": []
+    },
+    {
+      "sentence_id": 93,
+      "text": "Sunday, July 8, 2012 at 11:05am PDT",
+      "tones": [
+        {
+          "score": 0.597754,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 94,
+      "text": "Sunday, July 1, 2012 at 5:45am PDT",
+      "tones": [
+        {
+          "score": 0.597754,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 95,
+      "text": "Lorraine Sawicki shared Shikha Jain's photo.",
+      "tones": [
+        {
+          "score": 0.587491,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 96,
+      "text": "Last minute baby shower at Portage Bay Cafe!",
+      "tones": [
+        {
+          "score": 0.584634,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 97,
+      "text": "Thank you ladies!!",
+      "tones": [
+        {
+          "score": 0.923673,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 98,
+      "text": "With Elaine Juzwick Monk, Danielle Adelman Pajor, Cindy Reeh, Shikha Jain, Shirlene Lim, Jean Black, and Aleca Murphy.",
+      "tones": []
+    },
+    {
+      "sentence_id": 99,
+      "text": "Friday, June 29, 2012 at 12:11am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 100,
+      "text": "Mike told me about a group of teens in Hot Topic type gear that made signs outside the mall that said \"Creepy Advice, Free Hugs\".",
+      "tones": []
+    },
+    {
+      "sentence_id": 101,
+      "text": "They tested the signs out on him while Leila ignored them, and he gave them a thumbs up.",
+      "tones": [
+        {
+          "score": 0.803028,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 102,
+      "text": "Then the teens went into the mall.",
+      "tones": [
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

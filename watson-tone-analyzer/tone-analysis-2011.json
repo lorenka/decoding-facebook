@@ -1,0 +1,896 @@
+{
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Friday, December 30, 2011 at 2:59pm PST",
+      "tones": [
+        {
+          "score": 0.539198,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Alika Petrescu",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "thanks for the Christmas card!",
+      "tones": [
+        {
+          "score": 0.781161,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Leila looks lovely, of course.",
+      "tones": [
+        {
+          "score": 0.904627,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.992572,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Friday, December 23, 2011 at 2:53pm PST",
+      "tones": [
+        {
+          "score": 0.539198,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Irrational Cultural Possessiveness.",
+      "tones": [
+        {
+          "score": 0.576714,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "You know you've done it.",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Thanks for link Silvia Amtmann!",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Tuesday, December 20, 2011 at 11:35am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "Happy Holidays everyone!",
+      "tones": [
+        {
+          "score": 0.943056,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "And now it's time to get all the food bought and prepped for Christmas... herring, ham, gingerbread, fish, and tons of other things I know my mom, mom-in-law, and grandma expect :)",
+      "tones": [
+        {
+          "score": 0.561269,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.519491,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "Friday, December 16, 2011 at 1:28pm PST",
+      "tones": [
+        {
+          "score": 0.539198,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "I couldn't help but smile when I saw this todo list.",
+      "tones": [
+        {
+          "score": 0.950868,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "Friday, December 16, 2011 at 10:59am PST",
+      "tones": [
+        {
+          "score": 0.659187,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "Lorraine Sawicki shared Bread and Buttercups's post.",
+      "tones": []
+    },
+    {
+      "sentence_id": 15,
+      "text": "Any thoughts on what I should make for tomorrow?",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "My sister warned me not to make plain old chocolate chip, since someone always brings them!",
+      "tones": []
+    },
+    {
+      "sentence_id": 17,
+      "text": "Tuesday, December 13, 2011 at 11:12am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 18,
+      "text": "A photo I took of my sister and nephew in all their happy seasonal glory ;)",
+      "tones": [
+        {
+          "score": 0.732877,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.727798,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "Monday, December 12, 2011 at 5:10pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 20,
+      "text": "Elaine Juzwick",
+      "tones": []
+    },
+    {
+      "sentence_id": 21,
+      "text": "thanks for taking our pic, sis, it came our great!",
+      "tones": [
+        {
+          "score": 0.769404,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "text": ":)",
+      "tones": []
+    },
+    {
+      "sentence_id": 23,
+      "text": "Tuesday, December 6, 2011 at 3:48pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 24,
+      "text": "Nicole Cui",
+      "tones": []
+    },
+    {
+      "sentence_id": 25,
+      "text": "hey girlie, i haven't heard back from you since my last fb mail.... we still need to do playdate!",
+      "tones": []
+    },
+    {
+      "sentence_id": 26,
+      "text": "miss you and Leila! :)",
+      "tones": [
+        {
+          "score": 0.84408,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "text": "Tuesday, December 6, 2011 at 1:09pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 28,
+      "text": "Here's an xmas photo idea:",
+      "tones": [
+        {
+          "score": 0.782374,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "text": "Friday, December 2, 2011 at 11:10am PST",
+      "tones": [
+        {
+          "score": 0.659187,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "text": "I overheard Leila laughing loudly in her sleep last night - so sweet!",
+      "tones": [
+        {
+          "score": 0.838765,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "text": "I heard some adults still do this, are you one of them?",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "text": "Thursday, December 1, 2011 at 3:39pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 33,
+      "text": "Tuesday, November 29, 2011 at 9:37am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 34,
+      "text": "I told Mike this morning that my sister and I will let our inner Martha Stewart shine through this holiday season.",
+      "tones": [
+        {
+          "score": 0.671293,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "text": "He asked if we're going to prison.",
+      "tones": []
+    },
+    {
+      "sentence_id": 36,
+      "text": "Tuesday, November 29, 2011 at 9:36am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 37,
+      "text": "Tuesday, November 22, 2011 at 11:21am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 38,
+      "text": "Two memes, together at last.",
+      "tones": [
+        {
+          "score": 0.965509,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "text": "Monday, November 21, 2011 at 10:46pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 40,
+      "text": "Yoga pants + Ayn Rand = huh?",
+      "tones": []
+    },
+    {
+      "sentence_id": 41,
+      "text": "Thursday, November 17, 2011 at 11:53am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 42,
+      "text": "Just a little link for the next time you feel like you don't have enough space.",
+      "tones": [
+        {
+          "score": 0.510216,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "text": "Wednesday, November 16, 2011 at 10:37am PST",
+      "tones": [
+        {
+          "score": 0.525437,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "Seattle photographer Joshua Trujillo captured what may become the defining image of this week of Occupy unrest — an elderly woman being led away from the mayhem, her face covered with pepper spray.",
+      "tones": [
+        {
+          "score": 0.664451,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "text": "84-Year-Old Woman Becomes the Pepper-Sprayed Face of Occupy Seattle",
+      "tones": []
+    },
+    {
+      "sentence_id": 46,
+      "text": "Seattle photographer Joshua Trujillo captured what may become the defining image of this week of Occupy unrest — an elderly woman being led away from the mayhem, her face covered with pepper spray.",
+      "tones": [
+        {
+          "score": 0.664451,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "Tuesday, November 15, 2011 at 10:50am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 48,
+      "text": "Tuesday, November 15, 2011 at 7:03am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 49,
+      "text": "Tuesday, November 15, 2011 at 5:44am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 50,
+      "text": "Monday, November 14, 2011 at 3:54pm PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 51,
+      "text": "Aleca Murphy",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "text": "off to Maui in the morning.",
+      "tones": []
+    },
+    {
+      "sentence_id": 53,
+      "text": "Catch up after T'giving!",
+      "tones": [
+        {
+          "score": 0.982476,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "text": "I would love to get something up and running on the web too.",
+      "tones": [
+        {
+          "score": 0.651221,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "text": "Have a good week+",
+      "tones": [
+        {
+          "score": 0.7742,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "text": "Monday, November 14, 2011 at 1:34am PST",
+      "tones": []
+    },
+    {
+      "sentence_id": 57,
+      "text": "Lorraine Sawicki likes The Beauty of Maps: Seeing Art in Cartography on Brain Pickings.",
+      "tones": [
+        {
+          "score": 0.86667,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 58,
+      "text": "Wednesday, November 9, 2011 at 10:53am PST",
+      "tones": [
+        {
+          "score": 0.549927,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "text": "Family trip to Boulder, CO for the next 3 days!",
+      "tones": [
+        {
+          "score": 0.620123,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 60,
+      "text": "I've already booked my yoga session for tomorrow morning.",
+      "tones": [
+        {
+          "score": 0.724644,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 61,
+      "text": "Any other suggestions?",
+      "tones": [
+        {
+          "score": 0.998976,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 62,
+      "text": "Monday, October 31, 2011 at 8:06pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 63,
+      "text": "Here, the ringmaster tries her best to get the kite in the air for the last act.",
+      "tones": []
+    },
+    {
+      "sentence_id": 64,
+      "text": "Monday, October 31, 2011 at 7:13am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 65,
+      "text": "Sunday, October 30, 2011 at 10:18pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 66,
+      "text": "I love what one Dad somewhere out there made for his daughter.",
+      "tones": [
+        {
+          "score": 0.522479,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 67,
+      "text": "He even spray painted the helmet pink.",
+      "tones": [
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 68,
+      "text": "Sunday, October 30, 2011 at 1:48pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 69,
+      "text": "Best cinnamon roll ever at Skillet in Capitol Hill.",
+      "tones": [
+        {
+          "score": 0.649305,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.660207,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 70,
+      "text": "Friday, October 28, 2011 at 3:09pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 71,
+      "text": "Big smiles before the scooping out of pumpkin guts with Dad.",
+      "tones": [
+        {
+          "score": 0.846029,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 72,
+      "text": "Thursday, October 27, 2011 at 12:31pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 73,
+      "text": "361 followers",
+      "tones": []
+    },
+    {
+      "sentence_id": 74,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 75,
+      "text": "361 followers",
+      "tones": []
+    },
+    {
+      "sentence_id": 76,
+      "text": "Thursday, October 27, 2011 at 11:40am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 77,
+      "text": "Odd lunch - pickled herring followed by pumpkin bread and coffee.",
+      "tones": [
+        {
+          "score": 0.768144,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 78,
+      "text": "What else can I say.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 79,
+      "text": "Tuesday, October 25, 2011 at 1:18pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 80,
+      "text": "A reminder that without compassion, the human race will turn to absolute shit.",
+      "tones": [
+        {
+          "score": 0.882442,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 81,
+      "text": "Monday, October 17, 2011 at 9:05am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 82,
+      "text": "Somebody loves taking the bus with Dad!",
+      "tones": [
+        {
+          "score": 0.721805,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 83,
+      "text": "Tuesday, October 11, 2011 at 3:08pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 84,
+      "text": "Nature + music + technology.",
+      "tones": [
+        {
+          "score": 0.70738,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 85,
+      "text": "Yum.",
+      "tones": []
+    },
+    {
+      "sentence_id": 86,
+      "text": "If anything, read through to see the Tesla coil synth for Bjork's new album.",
+      "tones": [
+        {
+          "score": 0.688546,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.646387,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 87,
+      "text": "Saturday, October 8, 2011 at 10:39pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 88,
+      "text": "Friday, October 7, 2011 at 2:36pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 89,
+      "text": "Friday, October 7, 2011 at 11:52am PDT",
+      "tones": [
+        {
+          "score": 0.536567,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 90,
+      "text": "Came across a very sincere and sweet eco mom blog called \"ecoMILF\".",
+      "tones": [
+        {
+          "score": 0.791589,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 91,
+      "text": "Wrote email to the mom to tell her to look up the acronym MILF and to consider changing her name.",
+      "tones": []
+    },
+    {
+      "sentence_id": 92,
+      "text": "Thursday, October 6, 2011 at 10:44pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 93,
+      "text": "3 burglaries w/ force on my street on the same day - one of them next door (while I was home).",
+      "tones": [
+        {
+          "score": 0.541206,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 94,
+      "text": "Economic downturn, you're hitting pretty damn close to home.",
+      "tones": [
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 95,
+      "text": "Thursday, October 6, 2011 at 2:44pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 96,
+      "text": "A great article on trying to figure out how much to get paid for your work.",
+      "tones": [
+        {
+          "score": 0.562568,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 97,
+      "text": "Thursday, October 6, 2011 at 11:25am PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 98,
+      "text": "Anyone interested in checking out Geek Girl Con this weekend?",
+      "tones": [
+        {
+          "score": 0.709335,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 99,
+      "text": "Wednesday, October 5, 2011 at 9:26pm PDT",
+      "tones": []
+    },
+    {
+      "sentence_id": 100,
+      "text": "There's something for everyone in this one: a train, little people, and a Bollywood does disco soundtrack.",
+      "tones": [
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 101,
+      "text": "Friday, September 30, 2011 at 12:34pm PDT",
+      "tones": []
+    }
+  ]
+}
